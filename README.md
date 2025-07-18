@@ -1,5 +1,15 @@
 # Devops_deploys
 Esta es una práctica para desplegar phpmyfaq en virtual box y vagrant
+Proceso:
+1.	Instalación de vagrant en un sistema operativo Linux
+2.	Creación de una subcarpeta en la partición opt
+3.	Ejecución del comando vagrant init, para crear el archivo Vagrantfile
+4.	Ajustar los parámetros del Vagrantfile
+5.	Se opta por crear un script en bash para hacer el despliegue de la aplicación llamada phpmyfaq
+https://github.com/VeraCastro/Devops_deploys/blob/main/deploy.sh
+6.	Ejecutar el comando vagrant up -provisión
+7.	Al finalizar utilizar el comando vagrant ssh, para obtener el acceso a la maquina virtual y hacer una prueba con curl
+8.	Acceder al sitio phpmyfaq por medio de http:/localhost8888/setup/index.php
 
-![Demo del proyecto](a0ogtg.gif)
+[![Demo del proyecto](a0ogtg.gif)
 [![Video con el despliegue]](https://www.youtube.com/watch?v=MXHWv7Y_A8Q)
