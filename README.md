@@ -1,5 +1,5 @@
 # Devops_deploys
-Esta es una práctica para desplegar phpmyfaq en virtual box y vagrant
+Esta es una práctica para desplegar phpmyfaq en virtual box y vagrant \n
 Proceso:
 1.	Instalación de vagrant en un sistema operativo Linux
 2.	Creación de una subcarpeta en la partición opt
