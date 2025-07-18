@@ -11,6 +11,6 @@ Proceso:
 7.	Al finalizar utilizar el comando vagrant ssh, para obtener el acceso a la maquina virtual y hacer una prueba con curl
 8.	Acceder al sitio phpmyfaq por medio de http:/localhost8888/setup/index.php
 
-[![Demo del proyecto](a0ogtg.gif)
+![Demo del proyecto](a0ogtg.gif)
 
-[![Video con el despliegue]](https://www.youtube.com/watch?v=MXHWv7Y_A8Q)
+![Video con el despliegue](https://www.youtube.com/watch?v=MXHWv7Y_A8Q)
