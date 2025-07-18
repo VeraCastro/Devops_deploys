@@ -12,4 +12,5 @@ Proceso:
 8.	Acceder al sitio phpmyfaq por medio de http:/localhost8888/setup/index.php
 
 [![Demo del proyecto](a0ogtg.gif)
+
 [![Video con el despliegue]](https://www.youtube.com/watch?v=MXHWv7Y_A8Q)
