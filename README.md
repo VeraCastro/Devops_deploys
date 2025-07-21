@@ -9,7 +9,7 @@ Proceso:
 5.	Es necesario tener en la misma ubicación del archivo Vagrantfile el script deploy.sh
 6.	Ejecutar el comando vagrant up -provisión
 7.	Al finalizar utilizar el comando vagrant ssh, para obtener el acceso a la maquina virtual y hacer una prueba con curl
-8.	Acceder al sitio phpmyfaq por medio de http:/localhost8888/setup/index.php
+8.	Acceder al sitio phpmyfaq por medio de http:/localhost:8888/setup/index.php
 
 [![Demo del proyecto](a0ogtg.gif)](https://www.youtube.com/watch?v=MXHWv7Y_A8Q)
 
